@@ -1,0 +1,7 @@
+resolution_y = 864
+resolution_x = 1536
+fullscreen = true
+first_time = true
+darkmode = true
+password_length = 16
+auto_copy_to_clipboard = true
